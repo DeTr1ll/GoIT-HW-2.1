@@ -1,9 +1,9 @@
-from Bot import Bot
+from bot import bot
 
 
 if __name__ == "__main__":
     print('Hello. I am your contact-assistant. What should I do with your contacts?')
-    bot = Bot()
+    bot = bot()
     bot.book.load("auto_save")
     commands = ['Add', 'Search', 'Edit', 'Load', 'Remove', 'Save', 'Congratulate', 'View', 'Exit']
     while True:

@@ -1,9 +1,9 @@
-from AddressBook import *
+from address_book import *
 
 
-class Bot:
+class bot:
     def __init__(self):
-        self.book = AddressBook()
+        self.book = address_book()
 
     def handle(self, action):
         if action == 'add':

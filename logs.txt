@@ -59,3 +59,6 @@
 [08:29:06] Addressbook has been loaded!
 [08:29:58] Contact  has been added.
 [08:29:58] Addressbook has been saved!
+[14:21:16] Addressbook has been loaded!
+[14:22:08] Contact dada has been added.
+[14:22:08] Addressbook has been saved!

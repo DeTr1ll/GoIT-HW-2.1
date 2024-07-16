@@ -5,7 +5,7 @@ from info import *
 import os
 
 
-class AddressBook(UserList):
+class address_book(UserList):
     def __init__(self):
         self.data = []
         self.counter = -1
